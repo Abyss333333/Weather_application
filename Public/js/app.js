@@ -9,7 +9,7 @@ const messageTwo = document.querySelector('#message-2')
 const location_ = document.querySelector('#Location')
 const current= document.querySelector('#Current')
 
-
+//
 weatherForm.addEventListener('submit', (e)=>{
     e.preventDefault() // prevent refresh
 
